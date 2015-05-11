@@ -1,4 +1,4 @@
-x=msgbox("You have watched too much porn!"+vbCrLf+"You sick fuck!", 16, "Error: Bestiality Porn Detected")
+x=msgbox(vbCrLf+"I hate you!", 16, "Error: You did not care for me!")
 y=msgbox("Do you wish to format your computer?", 4, "Error: Corrupted File System")
 z=msgbox("Formatting computer in background, please wait...", 4096, "Formatting...")
 wscript.sleep 60000
